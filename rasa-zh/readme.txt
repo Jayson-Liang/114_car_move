@@ -1,1 +1,0 @@
-cd C:\Users\Liang_X1\Documents\Baiduyun\github\rasa\rasa-zh
